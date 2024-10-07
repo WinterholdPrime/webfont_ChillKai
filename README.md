@@ -1,2 +1,3 @@
-# webfont_ChillKai
-The split subsetted webfont of ChillKai.
+[寒蝉正楷体](https://github.com/Warren2060/Chillkai)的切片子集化，技术由[中文网字计划](https://github.com/KonghaYao/cn-font-split)提供。
+
+字体版本号 2.0。
